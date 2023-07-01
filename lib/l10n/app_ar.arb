@@ -1,0 +1,23 @@
+{
+"login_title": "اهلا مجددا",
+"login_subtitle": " ادخل البريد و كلمة المرور",
+"email": "البريد",
+"password": "كلمة المرور",
+"login": "تسجيل الدخول",
+"change_language": " تغيير اللغة",
+"choose_language": " اختر اللغة المناسبة " ,
+"register": "تسجيل",
+"name" : "الاسم",
+"register_title" : "سجل الان",
+"register_subtitle": "ادخل بياناتك بشكل صحيح",
+"login_success": "تمت العملية بنجاح",
+"do_not_have_an_account" :" ليس لديك حساب؟",
+"create": "انشئ الان",
+"login_failed" :"فشلت عملية الدخول",
+"create" : "انشئ",
+"update" : " تعديل",
+"title" : " العنوان" ,
+"info" : "المعلومات" ,
+"save" :"حفظ"
+
+}
